@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jsarraffe Jacques Sarraffe
 - 👀 I’m interested in App Development, Machine Learning, and Data Science
 - 🌱 I’m currently learning Swift, Database Management Systems, Dart
-- 💞️ I’m looking to collaborate on Research related or anything involving Automation
+- 💞️ I’m looking to collaborate on anything research related, or involving utomation
 - 📫 How to reach me jsarraffe@gmail.com
 
 <!---
